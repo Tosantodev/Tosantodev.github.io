@@ -1,0 +1,75 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+
+.container h1 {
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    text-shadow: 0 0 30px white;
+}
+
+.container p {
+    color: white;
+    text-align: center;
+}
+
+.logo {
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-left: 600px;
+    margin-top: 10px;
+    box-shadow: 0 0 30px white;
+}
+
+.box1 {
+    border: 4px solid red;
+    box-shadow: 0 0 30px red;
+    margin-top: 40px;
+    width: 700px;
+    margin-left: 300px;
+    border-radius: 20px;
+    text-shadow: 0 0 30px white;
+}
+
+.box2 {
+    border: 4px solid red;
+    box-shadow: 0 0 30px red;
+    margin-top: 40px;
+    width: 700px;
+    margin-left: 300px;
+    border-radius: 20px;
+    text-shadow: 0 0 30px white;
+}
+
+.logoig {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-left: 190px;
+}
+
+.logott {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-left: 50px;
+}
+
+.logogit {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-left: 50px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
